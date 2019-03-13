@@ -1,17 +1,14 @@
 package com.onurersen.javadesignpatterns.template;
 
-public class RoastedChicken {
+public class RoastedChicken extends DinnerProcedure{
 
-    public void prepareIngredients(){
+    @Override
+    public void prepareIngredients() {
         System.out.println("Preparing ingredients for chicken...");
     }
 
-    public void bakeInOven(){
-        System.out.println("Bake the chicken in oven...");
+    @Override
+    public void bakeInOven() {
+        System.out.println("Bake the chicken in oven @ 200°C ...");
     }
-
-    public void washTheDishes(){
-        System.out.println("Washing the dishes...");
-    }
-
 }

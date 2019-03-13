@@ -6,15 +6,11 @@ public class DinnerTest {
 
         /** Cooking RoastedBeef **/
         RoastedBeef roastedBeef = new RoastedBeef();
-        roastedBeef.prepareIngredients();
-        roastedBeef.bakeInOven();
-        roastedBeef.washTheDishes();
+        roastedBeef.roastMeal();
 
         /** Cooking RoastedBeef **/
         RoastedChicken roastedChicken = new RoastedChicken();
-        roastedChicken.prepareIngredients();
-        roastedChicken.bakeInOven();
-        roastedChicken.washTheDishes();
+        roastedChicken.roastMeal();
 
     }
 
