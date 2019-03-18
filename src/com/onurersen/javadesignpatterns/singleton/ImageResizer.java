@@ -18,4 +18,8 @@ public class ImageResizer {
         return imageResizer;
     }
 
+    public void resize(int dimensionX, int dimensionY){
+        System.out.println("Resizing with dimensions X : " + dimensionX + " and dimension Y : " + dimensionY);
+    }
+
 }
