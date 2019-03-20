@@ -12,3 +12,5 @@ A Pattern A Day #5 - [Facade](https://onurersen.gitlab.io/post/2019-03-16-a-patt
 A Pattern A Day #6 - [Strategy](https://onurersen.gitlab.io/post/2019-03-18-a-pattern-a-day-strategy/)
 
 A Pattern A Day #7 - [State](https://onurersen.gitlab.io/post/2019-03-19-a-pattern-a-day-state/)
+
+A Pattern A Day #8 - [Proxy](https://onurersen.gitlab.io/post/2019-03-20-a-pattern-a-day-proxy/)
