@@ -14,3 +14,5 @@ A Pattern A Day #6 - [Strategy](https://onurersen.gitlab.io/post/2019-03-18-a-pa
 A Pattern A Day #7 - [State](https://onurersen.gitlab.io/post/2019-03-19-a-pattern-a-day-state/)
 
 A Pattern A Day #8 - [Proxy](https://onurersen.gitlab.io/post/2019-03-20-a-pattern-a-day-proxy/)
+
+A Pattern A Day #9 - [Chain of Responsibility](https://onurersen.gitlab.io/post/2019-03-21-a-pattern-a-day-chain-of-responsibility/)
