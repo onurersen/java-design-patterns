@@ -16,3 +16,5 @@ A Pattern A Day #7 - [State](https://onurersen.gitlab.io/post/2019-03-19-a-patte
 A Pattern A Day #8 - [Proxy](https://onurersen.gitlab.io/post/2019-03-20-a-pattern-a-day-proxy/)
 
 A Pattern A Day #9 - [Chain of Responsibility](https://onurersen.gitlab.io/post/2019-03-21-a-pattern-a-day-chain-of-responsibility/)
+
+A Pattern A Day #10 - [Bridge](https://onurersen.gitlab.io/post/2019-03-22-a-pattern-a-day-bridge/)
