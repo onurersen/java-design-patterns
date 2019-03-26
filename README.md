@@ -20,3 +20,5 @@ A Pattern A Day #9 - [Chain of Responsibility](https://onurersen.gitlab.io/post/
 A Pattern A Day #10 - [Bridge](https://onurersen.gitlab.io/post/2019-03-22-a-pattern-a-day-bridge/)
 
 A Pattern A Day #11 - [Composite](https://onurersen.gitlab.io/post/2019-03-25-a-pattern-a-day-composite/)
+
+A Pattern A Day #12 - [Decorator](https://onurersen.gitlab.io/post/2019-03-26-a-pattern-a-day-decorator/)
