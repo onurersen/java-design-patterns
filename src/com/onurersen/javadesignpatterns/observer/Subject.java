@@ -8,11 +8,8 @@ public interface Subject {
     }
 
     void attachObserver(Observer observer);
-
     void detachObserver(Observer observer);
-
     void sendNotificationToObservers(MEMBER_TYPE type);
-
     Object getUpdate(Subject.MEMBER_TYPE type);
 
 }
