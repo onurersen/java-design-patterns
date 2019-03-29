@@ -24,3 +24,5 @@ A Pattern A Day #11 - [Composite](https://onurersen.gitlab.io/post/2019-03-25-a-
 A Pattern A Day #12 - [Decorator](https://onurersen.gitlab.io/post/2019-03-26-a-pattern-a-day-decorator/)
 
 A Pattern A Day #13 - [Observer](https://onurersen.gitlab.io/post/2019-03-27-a-pattern-a-day-observer/)
+
+A Pattern A Day #14 - [Builder](https://onurersen.gitlab.io/post/2019-03-28-a-pattern-a-day-builder/)
