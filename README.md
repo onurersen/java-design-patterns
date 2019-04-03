@@ -28,3 +28,5 @@ A Pattern A Day #13 - [Observer](https://onurersen.gitlab.io/post/2019-03-27-a-p
 A Pattern A Day #14 - [Builder](https://onurersen.gitlab.io/post/2019-03-28-a-pattern-a-day-builder/)
 
 A Pattern A Day #15 - [Flyweight](https://onurersen.gitlab.io/post/2019-03-29-a-pattern-a-day-flyweight/)
+
+A Pattern A Day #16 - [Visitor](https://onurersen.gitlab.io/post/2019-03-30-a-pattern-a-day-visitor/)
