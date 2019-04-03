@@ -1,6 +1,6 @@
 package com.onurersen.javadesignpatterns.flyweight;
 
-public class CartridgeCount {
+public class CartridgeStock {
 
     private int count;
 
