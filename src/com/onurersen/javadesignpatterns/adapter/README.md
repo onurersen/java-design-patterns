@@ -206,6 +206,6 @@ Now, we successfully adapted a class to another via an adapter class.
 
 ---
 
-Next design pattern is [Façade Pattern.](/post/2019-03-16-a-pattern-a-day-facade/) 
+Next design pattern is Façade Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

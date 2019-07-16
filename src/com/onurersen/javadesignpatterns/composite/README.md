@@ -256,6 +256,6 @@ Our client did not need to think about leaf and composite differentiation.
 
 ---
 
-Next design pattern is [Decorator Pattern.](/post/2019-03-26-a-pattern-a-day-decorator/)
+Next design pattern is Decorator Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

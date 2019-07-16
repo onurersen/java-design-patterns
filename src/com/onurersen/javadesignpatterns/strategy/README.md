@@ -165,6 +165,6 @@ while factory pattern is used for **creating specific objects for different purp
 
 ---
 
-Next design pattern is [State Pattern.](/post/2019-03-19-a-pattern-a-day-state/) 
+Next design pattern is State Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

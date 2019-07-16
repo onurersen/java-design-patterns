@@ -152,6 +152,6 @@ functionality but as long as **everything behind façade implementation is clean
 
 ---
 
-Next design pattern is [Strategy Pattern.](/post/2019-03-18-a-pattern-a-day-strategy/) 
+Next design pattern is Strategy Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

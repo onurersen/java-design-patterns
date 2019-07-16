@@ -174,6 +174,6 @@ I hope this post was understandable to get an idea of the main characteristics o
 
 ---
 
-Next design pattern is [Composite Pattern.](/post/2019-03-25-a-pattern-a-day-composite/)
+Next design pattern is Composite Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

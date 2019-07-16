@@ -266,6 +266,6 @@ If we had a more complex implementation, we would use Builder pattern for creati
 
 ---
 
-Next design pattern is [Flyweight Pattern.](/post/2019-03-29-a-pattern-a-day-flyweight/)
+Next design pattern is Flyweight Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

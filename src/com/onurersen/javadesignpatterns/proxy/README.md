@@ -149,6 +149,6 @@ This was a very simple example of Proxy pattern.
 
 ---
 
-Next design pattern is [Chain of Responsibility Pattern.](/post/2019-03-21-a-pattern-a-day-chain-of-responsibility/) 
+Next design pattern is Chain of Responsibility Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

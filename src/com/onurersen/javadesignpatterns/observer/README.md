@@ -225,6 +225,6 @@ In this example, Subject created something without knowing who was subscribed to
 
 ---
 
-Next design pattern is [Builder Pattern.](/post/2019-03-28-a-pattern-a-day-builder/)
+Next design pattern is Builder Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

@@ -180,6 +180,6 @@ independent execution behaviors.
 
 ---
 
-Next design pattern is [Proxy Pattern.](/post/2019-03-20-a-pattern-a-day-proxy/) 
+Next design pattern is Proxy Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

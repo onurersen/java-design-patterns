@@ -204,6 +204,6 @@ The easiest way to use the Template pattern is :
 
 ---
 
-Next design pattern is [Adapter Pattern.](/post/2019-03-15-a-pattern-a-day-adapter/) 
+Next design pattern is Adapter Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

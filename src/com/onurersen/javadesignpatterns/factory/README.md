@@ -156,6 +156,6 @@ If we ever need to add a new type of vehicle like `Bus`, `Motorcycle` etc. again
 
 ---
 
-Next design pattern is [Template Pattern.](/post/2019-03-14-a-pattern-a-day-template/) 
+Next design pattern is Template Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

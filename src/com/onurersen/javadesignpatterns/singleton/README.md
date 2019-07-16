@@ -167,6 +167,6 @@ HashCodes:
 
 ---
 
-Next design pattern is [Factory Pattern.](/post/2019-03-13-a-pattern-a-day-factory/) 
+Next design pattern is Factory Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns)

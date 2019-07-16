@@ -197,6 +197,6 @@ This was a simple demonstration of the Flyweight pattern.
 
 ---
 
-Next design pattern is [Visitor Pattern.](/post/2019-03-30-a-pattern-a-day-visitor/)
+Next design pattern is Visitor Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

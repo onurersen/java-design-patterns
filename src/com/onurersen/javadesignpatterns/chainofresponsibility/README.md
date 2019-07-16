@@ -212,6 +212,6 @@ This was a simple demonstration of the Chain of Responsibility pattern. Whenever
 
 ---
 
-Next design pattern is [Bridge Pattern.](/post/2019-03-22-a-pattern-a-day-bridge/) 
+Next design pattern is Bridge Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 

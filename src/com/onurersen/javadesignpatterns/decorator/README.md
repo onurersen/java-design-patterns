@@ -133,6 +133,6 @@ In this example, we used the Decorator pattern which is built mainly using inher
 
 ---
 
-Next design pattern is [Observer Pattern.](/post/2019-03-27-a-pattern-a-day-observer/)
+Next design pattern is Observer Pattern.
 
 Source code used in this post can be found [here.](https://gitlab.com/onurersen/java-design-patterns) 
